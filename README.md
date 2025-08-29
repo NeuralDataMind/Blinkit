@@ -16,7 +16,7 @@ The primary goal is to empower stakeholders with an interactive and user-friendl
 
 Here is a quick demonstration of the interactive features of the dashboard.
 
-[code](NeuralDataMind/Blinkit/demo.mp4)
+[Demo video](NeuralDataMind/Blinkit/demo.gif)
 
 -----
 
