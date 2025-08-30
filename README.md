@@ -1,5 +1,3 @@
-Of course\! Here is a detailed `README.md` section for your GitHub repository, written in Markdown. You can copy and paste this directly into a `README.md` file in your repo.
-
 -----
 
 # Blinkit Business Intelligence Dashboard
