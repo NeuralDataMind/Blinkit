@@ -76,6 +76,6 @@ The report is divided into several key pages for focused analysis:
 
 ## ✍️ Author
 
-  - **[Mallikarjun Reddy Bardipuram]**
+  - **Mallikarjun Reddy Bardipuram**
   - **LinkedIn:** [Link](https://www.linkedin.com/in/b-mallikarjun-reddy-9380b0217/)
   - **GitHub:** [Link](https://github.com/NeuralDataMind)
